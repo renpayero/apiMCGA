@@ -906,5 +906,35 @@
       "id": 101,
       "client_name": "pepito"
     }
+  ],
+  "sales":[
+    {
+      "id_sale":1,
+    "id_product":[1,2,3,4],
+    "id_client":1,
+    "date":"3/26/2023",
+    "cant_products": 4
+    },
+    {
+      "id_sale":2,
+      "id_product":[8,9,10],
+      "id_client":2,
+      "date":"5/30/2023",
+      "cant_products": 3
+    },
+    {
+      "id_sale":3,
+      "id_product":[20,30],
+      "id_client":3,
+      "date":"3/26/2023",
+      "cant_products": 2
+    },
+    {
+      "id_sale":4,
+      "id_product":[90],
+      "id_client":4,
+      "date":"12/30/2022",
+      "cant_products": 1
+    }
   ]
 }
